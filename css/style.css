@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    background-color: aqua;
+}
+.logo{
+    width: 25%;
+    height: 40px;
+    background-color: rgb(31, 18, 112);
+    color: brown;
+
+}
+.menu{
+    width: 75%;
+    height: 40px;
+    background-color: rgb(18, 112, 35);
+    color: white;
+
+}
+.section{
+    width: 100%;
+    height: 400px;
+    background-color: blue;
+    display: flex;
+}
+.aside{
+    width: 30%;
+    height: 400px;
+    background-color: darkred;
+    color: white;
+    text-align: center;
+
+}
+.article{
+    width: 70%;
+    height: 400px;
+    background-color: rgb(112, 76, 18);
+    color: brown;
+}
+.artcile_1{
+    width: 100%;
+    height: 200px;
+    background-color: turquoise;
+    color: brown;
+
+}
+.article_2{
+    width: 100%;
+    height: 200px;
+    background-color: tomato;
+    color: brown;
+    display: flex;
+
+}
+.image{
+    width: 33%;
+    height: 100%;
+    background-color: black;
+
+}
+.image_1{
+    width: 33%;
+    height: 100%;
+    background-color: rgb(15, 156, 69), 0, 0);
+
+}
+.image_2{
+    width: 34%;
+    height: 100%;
+    background-color: gold;
+
+}
+footer{
+    width: 100%;
+    height: 40px;
+    background-color: aqua;
+    text-align: center;
+}
